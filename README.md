@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Soren Martin
 
-<!--
-**soren-martin/soren-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **BA in Computer Science** – University of Iowa (Class of 2028)  
+ Aspiring **Cybersecurity Professional** | AWS Certified Cloud Practitioner | Studying Security+  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Current Focus
+- Building foundational projects in Python & C++
+- Expanding knowledge in cybersecurity fundamentals
+- Learning Git, GitHub, and collaborative workflows
+
+###  Certifications
+- AWS Certified Cloud Practitioner
+- Studying for CompTIA Security+
+
+###  Tech & Tools
+Python • C++ • Git • AWS • Linux
+
+###  Contact
+- [LinkedIn]
+- Email: 
