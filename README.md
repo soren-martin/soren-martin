@@ -1,7 +1,7 @@
 # Hi, I'm Soren Martin
 
  **BA in Computer Science** – University of Iowa (Class of 2028)  
- Aspiring **Cybersecurity Professional** | AWS Certified Cloud Practitioner | Studying Security+  
+ Aspiring **Cybersecurity Professional** | Security+ | AWS Certified Cloud Practitioner
 
 ---
 
