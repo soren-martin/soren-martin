@@ -12,7 +12,7 @@
 
 ###  Certifications
 - AWS Certified Cloud Practitioner
-- Studying for CompTIA Security+
+- CompTIA Security+
 
 ###  Tech & Tools
 Python • C++ • Git • AWS • Linux
